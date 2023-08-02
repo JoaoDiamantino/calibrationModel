@@ -28,8 +28,8 @@ teste.
 Ainda foi possivel fezer um tunning no modelo com GridSearch.
 
 ## :wrench: Tecnologias utilizadas
-* Linguagem Python no Google Colab
+* Linguagem Python no Google Colab, Scikit-Learn
 
 ## :rocket: Rodando o projeto
-Para rodar o repositório é necessário clonar o mesmo e rodar em notebook no GoogleColab ou Jupyter
+Para rodar o modelo é necessário clonar o arquivo calibrationProField.ipynb rodar em notebook no GoogleColab ou Jupyter
 
