@@ -1,4 +1,4 @@
-<h1 align="center">:file_rain: Modelo de Calibração de Sensor de Chuva</h1>
+<h1 align="center">🌧️: Modelo de Calibração de Sensor de Chuva</h1>
 
 ## :memo: Descrição
 O desafio técnico proposto pela FieldPRO envolve a construção de um modelo de 
